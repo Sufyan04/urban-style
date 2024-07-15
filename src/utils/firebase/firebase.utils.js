@@ -25,12 +25,13 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBR9rf21kw5ZhtXe1JxD1uCW9k7PzjdydQ",
-  authDomain: "urbanstyle-db.firebaseapp.com",
-  projectId: "urbanstyle-db",
-  storageBucket: "urbanstyle-db.appspot.com",
-  messagingSenderId: "943971658225",
-  appId: "1:943971658225:web:0960da07f376deb1eebc50",
+  apiKey: "AIzaSyAzuZzt77eAwHlQALrTQqNL5nCMbMLQO6c",
+  authDomain: "urban-style-56e48.firebaseapp.com",
+  projectId: "urban-style-56e48",
+  storageBucket: "urban-style-56e48.appspot.com",
+  messagingSenderId: "209717947548",
+  appId: "1:209717947548:web:daffc1672744b580791159",
+  measurementId: "G-ZK1VE5ZYTN"
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
